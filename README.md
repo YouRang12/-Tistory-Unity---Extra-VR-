@@ -6,5 +6,5 @@
 
 -----------------------------------
 
-[[Unity]01.VR 시선처리 - VR에 대해 알아보기] (https://goo.gl/mruLJm)
+[Unity]01.VR 시선처리 - VR에 대해 알아보기 => (https://goo.gl/mruLJm)
 
