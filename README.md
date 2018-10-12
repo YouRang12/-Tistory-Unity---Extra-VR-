@@ -16,4 +16,4 @@
 
 [Unity]05.360 VR 영상처리 - 파노라마 스카이박스 사용
 
-[Unity]06.삼성 Gear VR 사용 => 
+[Unity]06.삼성 Gear VR 사용 => (https://goo.gl/pzzfaE)
