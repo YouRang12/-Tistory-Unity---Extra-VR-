@@ -12,4 +12,4 @@
 
 [Unity]03.VR 시선처리 - 시선으로 이동 처리하기 => (https://goo.gl/zPRSWJ)
 
-[Unity]04.360 VR 영상처리 => (https://goo.gl/6R8619)
+[Unity]04.360 VR 영상처리 - Sphere 사용 => (https://goo.gl/6R8619)
