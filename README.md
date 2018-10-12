@@ -13,3 +13,7 @@
 [Unity]03.VR 시선처리 - 시선으로 이동 처리하기 => (https://goo.gl/zPRSWJ)
 
 [Unity]04.360 VR 영상처리 - Sphere 사용 => (https://goo.gl/6R8619)
+
+[Unity]05.360 VR 영상처리 - 파노라마 스카이박스 사용
+
+[Unity]06.삼성 Gear VR 사용 => 
