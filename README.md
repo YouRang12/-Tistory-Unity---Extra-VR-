@@ -23,3 +23,7 @@
 [Unity]06.삼성 Gear VR 사용 #1 - 시선처리를 이용한 아이템 습득 => (https://goo.gl/pzzfaE)
 
 [Unity]07.삼성 Gear VR 사용 #2 - 리모트를 이용한 이동과 공격 구현 => (https://goo.gl/wgQBzk)
+
+-----------------------------------
+
+[Unity]08.HTC Vive 사용 #1 - 컨트롤러 키 매핑 => (https://goo.gl/4JBE38)
