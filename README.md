@@ -34,3 +34,5 @@
 
 [Unity]11.HTC Vive 사용 #4 - VR Chat(캐릭터 생성) => (https://goo.gl/jdhfbT)
 
+[Unity]12.HTC Vive 사용 #5 - VR Chat(VRIK) => (https://goo.gl/ibMpyN)
+
