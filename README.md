@@ -36,3 +36,5 @@
 
 [Unity]12.HTC Vive 사용 #5 - VR Chat(VRIK) => (https://goo.gl/ibMpyN)
 
+[Unity]13.HTC Vive 사용 #6 - VR Chat(Voice) => (https://goo.gl/8FJHpf)
+
