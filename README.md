@@ -42,3 +42,5 @@
 
 [Unity]14.오큘러스 퀘스트 사용 #1 - 개발자 세팅 => (http://bitly.kr/GwD4V4)
 
+[Unity]15.오큘러스 퀘스트 사용 #2 - 이동과 공격 구현 => (http://bitly.kr/i7TxnZ)
+
